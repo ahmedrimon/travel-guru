@@ -1,0 +1,13 @@
+.bg {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../../../images/bg.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/bg.png");
+  background-image: cover;
+  height: 100vh;
+}
+
+@media screen and (max-width: 576px) {
+  .bg {
+    height: 110vh;
+  }
+}
+/*# sourceMappingURL=Home.css.map */

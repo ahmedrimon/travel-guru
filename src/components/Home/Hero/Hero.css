@@ -1,0 +1,37 @@
+.hero-container .hero-text-container {
+  margin-top: 15rem;
+  text-align: center;
+}
+
+.hero-container .hero-first-text {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.hero-container .hero-first-para {
+  font-size: 1.2rem;
+  width: 97%;
+}
+
+.hero-container .carousel-container {
+  width: 21.875rem;
+  height: 21.875rem;
+  margin: auto;
+  margin-top: 3.5rem;
+}
+
+@media screen and (max-width: 1400px) {
+  .hero-container .hero-text-container {
+    margin-top: 8em;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .hero-container .hero-text-container {
+    margin-top: 2em;
+  }
+}
+/*# sourceMappingURL=Hero.css.map */
