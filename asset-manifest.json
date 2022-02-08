@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-guru/static/css/main.da2a762f.css",
-    "main.js": "/travel-guru/static/js/main.afa4ab0b.js",
+    "main.js": "/travel-guru/static/js/main.6c0c7c75.js",
     "static/js/787.52dd32c0.chunk.js": "/travel-guru/static/js/787.52dd32c0.chunk.js",
     "static/media/bg.png": "/travel-guru/static/media/bg.aaab8179ddf21541e7ff.png",
     "static/media/sajek.png": "/travel-guru/static/media/sajek.74fc052a28a9b91ee09d.png",
@@ -11,11 +11,11 @@
     "static/media/Logo.png": "/travel-guru/static/media/Logo.17f5ca72b1b6e20807b9.png",
     "index.html": "/travel-guru/index.html",
     "main.da2a762f.css.map": "/travel-guru/static/css/main.da2a762f.css.map",
-    "main.afa4ab0b.js.map": "/travel-guru/static/js/main.afa4ab0b.js.map",
+    "main.6c0c7c75.js.map": "/travel-guru/static/js/main.6c0c7c75.js.map",
     "787.52dd32c0.chunk.js.map": "/travel-guru/static/js/787.52dd32c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da2a762f.css",
-    "static/js/main.afa4ab0b.js"
+    "static/js/main.6c0c7c75.js"
   ]
 }
