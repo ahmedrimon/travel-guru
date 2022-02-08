@@ -5,14 +5,10 @@ import {
   Container,
   Form,
   FormControl,
-  Image,
   Nav,
   Navbar,
-  NavDropdown,
   Offcanvas,
 } from 'react-bootstrap';
-
-import logo from '../../../images/Logo.png';
 
 const Nabar = () => {
   return (

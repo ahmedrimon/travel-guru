@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import Navar from '../../../components/Home/Navbar/Nabar.js';
+import Navar from '../../../Shared/Navbar/Nabar';
 import Hero from './../Hero/Hero';
 
 const Home = () => {
